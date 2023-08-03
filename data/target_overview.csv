@@ -1,0 +1,6 @@
+target,stage_expressed,gene_id_3d7,chrom,coords_3d7_amplified,seq_length,gc_content,pf6k_variant_positions
+ama1,blood,PF3D7_1133400,11,1294312-1294613,300,81 (27%),49 (16%)
+csp,liver,PF3D7_0304600,03,221351-221640,288,84 (29%),53 (18%)
+msp7,blood,PF3D7_1335100,13,1419236-1419567,330,82 (25%),53 (16%)
+sera2,blood,PF3D7_0207900,02,320762-321022,259,106 (41%),62 (24%)
+trap,liver,PF3D7_1335900,13,1465058-1465379,320,99 (31%),46 (14%)
